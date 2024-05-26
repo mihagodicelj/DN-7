@@ -1,0 +1,3 @@
+Navodila za uporabo:
+najprej je potrebno prevesti oba programa (najprej server, potem še chat) in vpisati uporabniško ime. Za pošiljanje privatnega sporočila je potrebno dodati simbol "/", tako se koda ne bo prikazala na serverju. JSON struktura je vpeljana in je nevidna odjemalcu.
+Miha Godicelj
